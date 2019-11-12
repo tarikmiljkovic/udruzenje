@@ -30,6 +30,8 @@
 	<div class="grid-x">
 	<div class="cell large-8">
 
+  awd
+
     <?php foreach( $posts_array as $post ) : setup_postdata( $post ); //echo $post->post_title; ?>
     <a href="<?php the_permalink() ?>" class="vijesti">
       <h5 class=""><?php the_title(); ?></h5>
