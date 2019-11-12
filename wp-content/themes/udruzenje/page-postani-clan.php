@@ -98,7 +98,7 @@
 
 		<div class="large reveal" id="modal" data-reveal>
 		  <h5>Statut</h5>
-		  <object data="https://www.udruzenje.ba/wp-content/uploads/2019/08/statut.pdf" type="application/pdf" width="100%" height="1000px"></object>
+		  <object data="https://udruzenje.ba/wp-content/uploads/2019/11/statut.pdf" type="application/pdf" width="100%" height="1000px"></object>
 		  <button class="close-button" data-close aria-label="Close reveal" type="button">
 		    <span aria-hidden="true">&times;</span>
 		  </button>
@@ -145,7 +145,7 @@
 			endwhile; endif;
 		?>
 
-		<a class="stavke" href="https://www.udruzenje.ba/wp-content/uploads/2019/08/statut.pdf"><i class="fas fa-file-pdf"></i>statut</a>
+		<a class="stavke" href="https://udruzenje.ba/wp-content/uploads/2019/11/statut.pdf"><i class="fas fa-file-pdf"></i>statut</a>
 
 		
 
