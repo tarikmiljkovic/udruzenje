@@ -2,7 +2,7 @@
   'posts_per_page'   => 10,
   'offset'           => 0,
   'cat'         => '',
-  'category_name'    => 'clanci',
+  'category_name'    => 'vijesti',
   'orderby'          => 'date',
   'order'            => 'DESC',
   'include'          => '',
