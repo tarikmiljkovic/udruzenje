@@ -2,7 +2,7 @@
 <!-- 2019 -->
 
 <!doctype html>
-<html lang="ba-BS">
+<html lang="ba-BS" prefix="og: http://ogp.me/ns#">
   <head>
     
     <meta charset="utf-8">
@@ -11,10 +11,11 @@
     <title><?php echo get_bloginfo( 'name' ); ?></title>
     <meta name="description" content="Udruženje poduzetnika Velika Kladuša | Izrada: Tarik Miljković">
 
-    <!-- Cache -->
+    <!-- Cache 
     <meta http-equiv='cache-control' content='no-cache'>
     <meta http-equiv='expires' content='0'>
     <meta http-equiv='pragma' content='no-cache'>
+    -->
 
     <!-- Google Site Verficiation + Sitemap -->
 
@@ -29,7 +30,7 @@
     <meta property="og:title" content="Udruženje poduzetnika Velika Kladuša">
     <meta property="og:description" content="Udruženje poduzetnika Velika Kladuša | Izrada: Tarik Miljković">
     <meta property="og:image" content="http://udruzenje.ba">
-    <meta property="og:url" content="<?php echo get_bloginfo('template_directory'); ?>/assets/slike/naslovna/jpg/glavna.jpg">
+    <meta property="og:url" content="<?php echo get_bloginfo('template_directory'); ?>/slike/naslovna/jpg/glavna.jpg">
 
     <?php wp_head(); ?>
 
