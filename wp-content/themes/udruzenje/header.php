@@ -29,8 +29,10 @@
     <!-- Social Media -->
     <meta property="og:title" content="Udruženje poduzetnika Velika Kladuša">
     <meta property="og:description" content="Udruženje poduzetnika Velika Kladuša | Izrada: Tarik Miljković">
-    <meta property="og:image" content="http://udruzenje.ba">
+    <meta property="og:image" content="<?php echo get_bloginfo('template_directory'); ?>/slike/naslovna/jpg/glavna.jpg">
     <meta property="og:url" content="<?php echo get_bloginfo('template_directory'); ?>/slike/naslovna/jpg/glavna.jpg">
+
+    <meta property="og:site_name" content="Udruženje poduzetnika Velika Kladuša">
 
     <?php wp_head(); ?>
 
