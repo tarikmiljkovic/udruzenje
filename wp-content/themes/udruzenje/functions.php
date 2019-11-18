@@ -45,4 +45,11 @@ body.login div#login h1 a {
 } add_action( 'login_enqueue_scripts', 'my_login_logo_one' );
 
 
+function seopress_theme_slug_setup() {
+    add_theme_support( 'title-tag' );
+}
+add_action( 'after_setup_theme', 'seopress_theme_slug_setup' );
+
+
+
 ?>
